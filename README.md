@@ -43,5 +43,5 @@
 ### Contato
   
 <div> 
-  <a href="mailto:leonardo.burik@hotmail.com"><img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/ms-outlook.png" target="_blank" title="Email" />
+  <a href="mailto:leonardo.burik@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Email" />
   <a href="https://www.linkedin.com/in/denisleonardoburik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"/> 
