@@ -8,7 +8,7 @@
 
 <ul>
   <li>Name: Denis Leonardo Burik</li>
-  <li>Objective: Software Engineer</li>
+  <li>Objective: Staff Software Engineer</li>
 </ul>
 
 <br>
