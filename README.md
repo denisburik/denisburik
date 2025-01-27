@@ -29,13 +29,17 @@
   <img height="40" width="40" src="https://skillicons.dev/icons?i=react" title="React" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=vue" title="VueJS" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=next" title="NextJS" />      
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=nuxtjs" title="NuxtJS" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=jest" title="Jest" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=styledcomponents" title="StyledComponent" />
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=mui" title="MUI" />
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=aws" title="AWS" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=sass" title="Sass" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </div>
 
 ##
