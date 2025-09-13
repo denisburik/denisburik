@@ -3,16 +3,6 @@
 <p>Seja bem vindo(a) ao meu perfil no github! Sou o Denis</p>
 
 ##
-
-### Details
-
-<ul>
-  <li>Name: Denis Leonardo Burik</li>
-  <li>Objective: Staff Software Engineer</li>
-</ul>
-
-<br>
-
  <div>
   <a href="https://github.com/denisburik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisburik&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
